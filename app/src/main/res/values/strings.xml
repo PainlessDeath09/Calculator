@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint">Enter Input</string>
+    <string name="add_desc">Addition</string>
+    <string name="sub_desc">Subtraction</string>
+    <string name="cls">Clear Output</string>
+    <string name="fi">Increase Font</string>
+    <string name="fd">Decrease Font</string>
+    <string name="mul_desc">Multiplication</string>
+    <string name="div_desc">Division</string>
+</resources>
